@@ -1,0 +1,14 @@
+.moda, .modaItem, .casa, .casaItem{
+  color: white;
+}
+.moda {
+  background-color: #BB86FC;
+}
+
+.modaItem, .casaItem {
+  background-color: #424250;
+}
+
+.casa {
+  background-color: #00C4B4;
+}
